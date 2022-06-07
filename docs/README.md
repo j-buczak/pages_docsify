@@ -254,6 +254,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-# External import
+# Internal import
 
-[filename](../outside_dep/table.md ':include')
+[filename](in_dep.md ':include') -->
+
+<!-- # External import
+
+[filename](../outside_dep/table.md ':include') -->
